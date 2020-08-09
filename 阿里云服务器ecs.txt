@@ -1,0 +1,9 @@
+112.124.12.109
+gfhnb666.
+
+
+jira项目管理
+jenkins自动化构建
+confluence知识库管理
+gitlab代码库
+svn文档库
